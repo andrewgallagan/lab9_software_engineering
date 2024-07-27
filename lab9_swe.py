@@ -1,6 +1,7 @@
 from lab9_decode import decode
 from lab9_encode import encode
 
+
 if __name__ == '__main__':
 
     # # Test 1
