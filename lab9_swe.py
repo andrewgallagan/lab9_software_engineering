@@ -1,4 +1,4 @@
-from lab9_decode import decode
+from decode import decode
 from lab9_encode import encode
 
 
