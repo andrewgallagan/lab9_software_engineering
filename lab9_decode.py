@@ -1,6 +1,4 @@
-# Lab 9, Software Engineering: Decode (Notional) Prior to Peer-Update
-#        (Please replace with your implementation below: )
-
+# Lab 9, Software Engineering: 'Decode' author: Andrew Gallagan
 def decode(password):
     decoded_pass = ""
     sub_by = 0
